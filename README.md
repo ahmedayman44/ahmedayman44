@@ -7,7 +7,7 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
 - :fire: Mobile Developer 
-- :mortar_board: Computer Science Graduate from Mansoura University
+- :mortar_board: Computer Engineering Graduate from Mansoura University
 - :earth_africa: Based in Egypt, Mansoura
 - :computer: Always learning and experimenting with new technologies
 - :e-mail: [Email me](mailto:ahmedayman203011@gmail.com) or [Connect on LinkedIn](https://linkedin.com/in/a7medayman005)
